@@ -138,11 +138,6 @@ menu = `
 ┃⬡ Total Grup : ${gc.length}
 ┃⬡ Runtime : ${runtime()}
 ┃⬡ Battery : ${caliph.battery ? caliph.battery.value +'%' : 'Belum kedetect'} ${caliph.battery ? caliph.battery.live ? '🔌 Charging...' : '⚡ Discharging' : ''}
-┃⬡ Source code : https://clph.pw/m9oU
-┗━━⬣
-
-┏━━━⬣ 𝙂𝘾 𝘽𝙊𝙏 𝙒𝘼
-┃ ⬡ Gc 1 : https://clph.pw/gcbot
 ┗━━⬣
 
 ┏━━「 Main Menu 」
