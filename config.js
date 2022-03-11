@@ -1,11 +1,11 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['62882003806038']
+global.owner = ['60102810046']
 global.autoread = false
-global.selfmode = false
+global.selfmode = true
 global.autobio = false // or node . --autobio
 global.thumb = './thumb/itsuki.jpg'
-global.fakereplyt = 'Rikka-Botz WhatsApp'
+global.fakereplyt = 'ꋬ꒐ꂵꋬꋊ メ *͘⁴̅⁰͍⁴̵'
 global.mess = {
 group : {
 welcome : `Welcome @user\n\nSelamat datang di grup @subject`,
@@ -17,8 +17,8 @@ error : 'Terjadi Kesalahan',
 success: 'Sukses...'
 }
 global.prefix = '🐤'
-global.author = '@caliph91_'
-global.packname = 'WhatsApp Bot'
+global.author = '@Aiman'
+global.packname = 'wa.me/60102810046'
 
 
 // LIST APIKEY
@@ -41,8 +41,8 @@ global.APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'YOUR-APIKEY'
 ,
   'https://api.zeks.me': 'rikkabotwa',
-  'https://rikka-api.xyz': 'free5d', // chat wa.me/62882003806038 to buy apikey
-   'https://api.caliph71.xyz': 'free5d' // chat wa.me/62882003806038 to buy apikey
+  'https://rikka-api.xyz': 'free5d', // chat wa.me/
+   'https://api.caliph71.xyz': 'free5d' // chat wa.me/
 }
 
 let file = require.resolve(__filename)
