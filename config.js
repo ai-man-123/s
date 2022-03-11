@@ -37,8 +37,8 @@ global.APIs = { // API Prefix
 
 global.APIKeys = { // APIKey Here
    'http://api.vhtear.com': 'YOUR-APIKEY',
-   'https://api.lolhuman.xyz': 'YOUR-APIKEY',
-  'https://api.xteam.xyz': 'YOUR-APIKEY'
+   'https://api.lolhuman.xyz': '4ef1b11287339c1b10699ece',
+  'https://api.xteam.xyz': '1005ef65a6159cea'
 ,
   'https://api.zeks.me': 'rikkabotwa',
   'https://rikka-api.xyz': 'free5d', // chat wa.me/
